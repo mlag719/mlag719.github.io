@@ -1,0 +1,16 @@
+h1 {
+	color: rgb(79, 157, 187);
+	font-family: Futura;
+}
+
+p {
+	font-family: Georgia, serif;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#bio {
+	text-align: left;
+}
